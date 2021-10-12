@@ -1,0 +1,121 @@
+
+/*IKEA blue #0058a3;*/
+
+body{
+    background-color: aliceblue;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+    display: block;
+    width: 80%;
+    padding: 2% 7%;
+    
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-size: 1.5em;
+    font-weight: 200;
+    font-style: italic;
+}
+
+h3 {
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-weight: 400;
+    letter-spacing: .02em;
+    font-size: 2em;
+    color: gray;
+    margin-bottom: -.5%;
+}
+
+img {
+    max-width: 20em;
+    max-height: 20em;
+    margin-left: -5%;
+}
+
+figcaption{
+    margin-left: 1%;
+}
+
+#p1-description, #p2-description, #p3-description, #p4-description, #p5-description{
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-weight: 200;
+    font-size: 1em;
+    font-style: italic;
+}
+
+a:link, a:visited, a:link:active {
+    color: yellow;
+    background-color: #0058a3;
+    text-decoration: none;
+}
+
+strong{
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-weight:900;
+}
+
+h1 strong{
+    color: #0058a3;
+}
+
+img {
+    border: 2px solid yellow;
+}
+
+.halfstar{
+    background-color: aliceblue;
+    font-size: 2em;
+
+}
+
+#p1-article, #p2-article, #p3-article, #p4-article, #p5-article{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    font-weight: 600;
+    color: white;
+    padding: 0 .5em;
+}
+
+#p1-price, #p2-price, #p3-price, #p4-price, #p5-price{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    color:black;
+    font-size: 1.5em;
+}
+
+#p1-rate, #p2-rate, #p3-rate, #p4-rate, #p5-rate{
+    color: yellow;
+    text-shadow: 0px -1px 2px #00223f;
+    font-size: 2em;
+    display: inline-block;
+    width: 200px;
+    margin-right: -3%;
+}
+
+.info-package{
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-variant: small-caps;
+    font-weight: 400;
+    color: #0058a3;
+}
+
+
+.translate{
+    font-weight: 200;
+    font-variant: normal;
+    color:black;
+}
+
+footer{
+    font-family: 'Montserrat', Verdana, Geneva, sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+}
